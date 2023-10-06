@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kemcrypt
-- 👀 I’m interested in blockchain security 
+- 👀 I’m interested in Machine Learning as well as RPA
 - 🌱 I’m a Software Engineer with a background in cybersecurity
 - 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me @kemiola89@gmail.com
