@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kemcrypt
 - 👀 I’m interested in blockchain security 
-- 🌱 I’m currently learning software engineering 
+- 🌱 I’m a Software Engineer with a background in cybersecurity
 - 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me @kemiola89@gmail.com
 
